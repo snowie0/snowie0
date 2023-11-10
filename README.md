@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <div class="stuff">
       <p> Things about me... </p>
       <ul>
-        <li> --- </li>
+        <li>  </li>
         <li> --- </li>
         <li> --- </li>
       </ul>
@@ -33,8 +33,10 @@ Here are some ideas to get you started:
     <p>Experienced with the following languages/tools:</p>
     <div class="tools">
       <ul>
-        <li> --- </li>
-        <li> --- </li>
+        <li> 
+        <a href="url"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F640px-Python-logo-notext.svg.png&tbnid=R_Z2LEghE0FruM&vet=12ahUKEwjjzozG5bmCAxXyMWIAHfUaD8YQMygBegQIARBx..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&docid=3wRBXLyvECcz0M&w=640&h=701&q=python%20language&ved=2ahUKEwjjzozG5bmCAxXyMWIAHfUaD8YQMygBegQIARBx" align="left" height="80" width="80" > </a>
+        </li>
+        <li>  </li>
         <li> --- </li>
       </ul>
     </div>
