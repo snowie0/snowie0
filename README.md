@@ -32,11 +32,11 @@ Here are some ideas to get you started:
     </div>
     <p>Experienced with the following languages/tools:</p>
     <div class="tools">
-      <ol>
+      <ul>
         <li> <a href="url"><img src="https://a.storyblok.com/f/198446/1920x1080/20d790afea/python-logo.webp" align="left" height="80" width="141.98" float="left"> </a> </li>
-        <li> <a href="url"><img src="https://www.devopsschool.com/blog/what-is-java-and-how-it-works-an-overview-and-its-use-cases/" align="left" height="80" width="141.98" float="left" > </a> </li>
-        <li> <a href="url"><img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" align="left" height="80" width="141.98" float="left" > </a> </li>
-      </ol>
+        <li> <a href="url"><img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png" align="left" height="80" width="141.98" float="left" > </a> </li>
+        <li> <a href="url"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britefish.net%2Fc-programming-language%2F&psig=AOvVaw1dVYEaEvW7M2Pw4-vn6IA6&ust=1699830793462000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCGuqmJvYIDFQAAAAAdAAAAABAJ" align="left" height="80" width="141.98" float="left" > </a> </li>
+      </ul>
     </div>
 
   </body>
