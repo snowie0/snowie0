@@ -34,8 +34,8 @@ Here are some ideas to get you started:
     <div class="tools">
       <ol>
         <li> <a href="url"><img src="https://a.storyblok.com/f/198446/1920x1080/20d790afea/python-logo.webp" align="left" height="80" width="141.98" float="left"> </a> </li>
-        <li> <a href="url"><img src="https://a.storyblok.com/f/198446/1920x1080/20d790afea/python-logo.webp" align="left" height="80" width="141.98" float="left" > </a> </li>
-        <li> <a href="url"><img src="https://a.storyblok.com/f/198446/1920x1080/20d790afea/python-logo.webp" align="left" height="80" width="141.98" float="left" > </a> </li>
+        <li> <a href="url"><img src="https://www.devopsschool.com/blog/what-is-java-and-how-it-works-an-overview-and-its-use-cases/" align="left" height="80" width="141.98" float="left" > </a> </li>
+        <li> <a href="url"><img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" align="left" height="80" width="141.98" float="left" > </a> </li>
       </ol>
     </div>
 
