@@ -13,7 +13,7 @@
         <li> Still a student </li>
         <li> I try creating different websites when bored </li>
         <li> Never can decide which language to use on projects </li>
-        <li> Currently working on self projects to leanr more about new programming languages </li>
+        <li> Currently working on self projects to learn more about new programming languages </li>
         <li> However if you are looking for someone work on a project with lmk!! </li>
 	<li> I was not using github much before hence why I do not have my projects on here hopefully its about to change now </li>
         <li> You can reach me through discord: snow.wie </li>
@@ -40,9 +40,9 @@
 
 <div align="left">
 	<br>
-	<img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" height="30" alt="Click to see the source">
-  	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="Click to see the source">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Click to see the source">
+	<img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" height="35" alt="Eclipse">
+  	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="45" alt="Vscode">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="50" alt="Wireshark">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" height="50" alt="Click to see the source">
 	<img src="https://i.redd.it/tu3gt6ysfxq71.png" height="50" alt="Click to see the source">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="50" alt="Click to see the source">
