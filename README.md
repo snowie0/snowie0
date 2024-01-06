@@ -33,7 +33,7 @@
 	<img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" height="90" alt="Click to see the source">
 	<img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" height="100" alt="Click to see the source">
 	<img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" height="75" alt="Click to see the source">
-	<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" height="70" alt="Click to see the source">
+	<!-- <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" height="70" alt="Click to see the source"> -->
 
 <br>
 </div>
