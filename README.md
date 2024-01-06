@@ -10,7 +10,7 @@
     <div class="stuff">
       <p>✨Things about me...✨ </p>
       <ul>
-        <li> Still a student </li>
+        <li> WLU undergrad </li>
         <li> I try creating different websites when bored </li>
         <li> Never can decide which language to use on projects </li>
         <li> Currently working on self projects to learn more about new programming languages </li>
