@@ -11,12 +11,11 @@
       <p>✨Things about me...✨ </p>
       <ul>
         <li> WLU undergrad </li>
-        <li> I try creating different websites when bored </li>
-        <li> Never can decide which language to use on projects </li>
-        <li> Currently working on self projects to learn more about new programming languages </li>
-        <li> However if you are looking for someone work on a project with lmk!! </li>
+        <li> Currently working on self projects to learn more about new programming languages like React </li>
+	<li> Also working on a group project for a chat application in Java </li>
+        <li> However if you are looking for someone work on a project with in a couple months lmk!! </li>
 	<li> I was not using github much before hence why I do not have my projects on here hopefully its about to change now </li>
-        <li> You can reach me through discord: snow.wie </li>
+        <li> You can reach me through discord: _nex.ie </li>
       </ul>
     </div>
 <br>
